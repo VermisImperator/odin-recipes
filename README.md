@@ -1,2 +1,2 @@
 # odin-recipes
-This is my first HTML project. I will be building a basic website that displays different cooking recipes.
+This is my first HTML project. I built a basic website that displays different cooking recipes. This project has allowed me to display different skills I have learned. These include creating files & directories, practicing git commits, tags, boilerplates, lists, links, and images.
